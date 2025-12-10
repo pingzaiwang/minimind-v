@@ -1,8 +1,4 @@
-<div align="center">
 
-![logo](./images/logo-minimind-v.png)
-
-</div>
 
 
 <div align="center">
