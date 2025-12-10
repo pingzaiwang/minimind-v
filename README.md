@@ -134,8 +134,6 @@ CPU: Intel(R) Core(TM) i9-10980XE CPU @ 3.00GHz
     python web_server.py
     ```
 
-![web_server](images/web_server.gif)
-
 # 📌 Quick Start Train
 
 > BTW: 如果没有git-lfs，请先安装 `sudo apt-get update`, `sudo apt-get install git-lfs`
