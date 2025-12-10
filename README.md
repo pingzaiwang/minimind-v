@@ -498,9 +498,6 @@ MiniMind-V与MiniMind的代码核心改动不超过100行，上手难度低。</
 python web_server.py
 ```
 
-![web_server1](./images/web_server1.png)
-![web_server2](./images/web_server2.png)
-
 ### 效果总结
 
 ---
