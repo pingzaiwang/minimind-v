@@ -32,7 +32,7 @@
 
   > 为防止误读，「最快3小时」是指您需要具备＞本人硬件配置的机器，具体规格的详细信息将在下文提供。
 
-![](./images/modelscope-demo.gif)
+
 
 <div align="center">
 
